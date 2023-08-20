@@ -51,15 +51,27 @@
 
 
 <hr/>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=alexnjoya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-alexnjoya.vercel.app/api?username=alexnjoya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-alexnjoya.vercel.app/api/top-langs/?username=alexnjoya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<!--  End Stats Cards -->
 
 <br/><br/>
 <hr/>
