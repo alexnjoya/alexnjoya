@@ -1,8 +1,8 @@
-# 🌌  Alex Noya
+# 🌌  Welcome to my gitHub page
 
-**`Software Engineer (Web Developer/Front-End Developer/Designer)`**
+**`Web3 Developer and Software Engineer and a Designer`**
 
-Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I am a web3 and blockchain enthusiast.
  
 <h2>🧰 Languages and tools</h2>
 
