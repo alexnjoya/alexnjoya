@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer and a web3 enthusiast  from Ghana </h3>
 <br/>
-
 <div align="center">
  
  🔭 I’m currently  working on NFTs market place project **
