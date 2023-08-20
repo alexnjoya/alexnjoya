@@ -1,47 +1,25 @@
-# Welcome to [Your Name]'s GitHub Profile!
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-![Header Image](https://your-image-url.com)
+<h1 align="center">Hi 👋, I'm Alex Njoya</h1>
+<h3 align="center">A passionate Software and Web3 developer from Ghana</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-## About Me
 
-Hello there! I'm [Your Name], a passionate and innovative [Your Profession/Field] based in [Your Location]. With a strong foundation in [Key Skill/Technology], I am dedicated to pushing the boundaries of what's possible in [Your Area of Interest]. My journey is all about learning, creating, and collaborating.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexnjoya&label=Profile%20views&color=0e75b6&style=flat" alt="alexnjoya" /> </p>
 
-## What I Do
+- 🔭 I’m currently a Student of the [University of Ghana](abacoss.com)
 
-- **Exploring Boundaries**: I thrive on challenges that require creative problem-solving. I love diving deep into complex problems and finding elegant solutions.
-- **Coding Craftsman**: My code is more than just instructions; it's a reflection of my commitment to quality and efficiency. I believe in writing code that is not only functional but also maintainable and scalable.
-- **Continuous Learner**: In the ever-evolving landscape of [Your Field], I am always eager to expand my skill set. Learning is a lifelong journey, and I am on a mission to stay at the forefront of innovation.
-- **Collaboration Advocate**: I believe that the best ideas are born through collaboration. I'm excited to work with like-minded individuals and contribute to projects that have a positive impact.
+- 💬 Ask me about **JavaScript, React, Nextjs, Python**
 
-## Featured Projects
+- 📫 How to reach me **njoyaalexander71@gmail.com**
 
-### [Project Name 1](https://github.com/yourusername/project1)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[Project Name] is a [brief description of the project's purpose]. It was built using [technologies/languages/tools used], and it showcases my ability to [mention a key achievement or feature of the project]. Check it out [here](https://github.com/yourusername/project1)!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![Project 1 Screenshot](https://project1-screenshot-url.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexnjoya&show_icons=true&locale=en&layout=compact" alt="alexnjoya" /></p>
 
-### [Project Name 2](https://github.com/yourusername/project2)
-
-In [Project Name 2], I tackled the challenge of [describe the challenge or problem the project addresses]. Using [technologies/languages/tools used], I successfully [mention a key achievement or outcome of the project]. Explore the project [here](https://github.com/yourusername/project2).
-
-![Project 2 Screenshot](https://project2-screenshot-url.com)
-
-## Let's Connect
-
-I'm always open to exciting collaborations and discussions. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername). Let's share ideas and make a difference together!
-
-## Technologies I Love
-
-- [Your Favorite Technology 1]
-- [Your Favorite Technology 2]
-- [Your Favorite Technology 3]
-- [Your Favorite Technology 4]
-
-## My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
----
-
-Thank you for visiting my GitHub profile. I look forward to connecting with fellow developers, innovators, and enthusiasts. Let's build the future together! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexnjoya&show_icons=true&locale=en" alt="alexnjoya" /></p>
