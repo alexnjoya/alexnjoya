@@ -30,8 +30,31 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
+<!-- 
+🔗 Links 🔗
+- My Github Portfolio Page:
+https://github.com/ProgrammingGym
+- My Github README Code:
+https://raw.githubusercontent.com/Pro...
+- Youtube Cards:
+https://github.com/DenverCoder1/githu...
+- Youtube Buttons / Badges :
+https://github.com/DenverCoder1/custo...
+- Github & Languages Stats Cards:
+https://github.com/anuraghazra/github...
+- Streak Stats Card:
+https://github.com/denvercoder1/githu...
+- README Web App Generator 1:
+https://rahuldkjain.github.io/gh-prof...
+- README Web App Generator 2:
+https://arturssmirnovs.github.io/gith...
+- SVG Icons Resource1:
+https://devicon.dev/
+- SVG Icons Resource2:
+https://cdn.jsdelivr.net/npm/sim
 
 <h2>⚡ Stats<h2>
+
 
 <!--- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=fred-gutierrez&show_icons=true&theme=vision-friendly-dark&hide_border=true) --->
 
