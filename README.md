@@ -86,7 +86,6 @@ https://cdn.jsdelivr.net/npm/sim
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnjoya&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
