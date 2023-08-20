@@ -1,4 +1,4 @@
-# 🌌  Welcome to my gitHub page
+# 🌌  Alex Njoya
 
 **`Web3 Developer, Software Engineer and a Designer`**
 
