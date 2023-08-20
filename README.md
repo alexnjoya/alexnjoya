@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alex Njoya</h1>
 <h3 align="center">A passionate Software and Web3 developer from Ghana</h3>
+
 <img align="right" alt="Coding" width="400" src="![download](https://github.com/alexnjoya/alexnjoya/assets/122866522/60d5210f-8f70-4ce5-8021-5f31c2cf3c63)
 ">
 
