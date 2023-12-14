@@ -8,9 +8,6 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently  working on NFTs market place project **
- 
- 🌱 I’m currently learning **Ruby, React Native Expo and solidity**
 
  💬 Ask me about **Node.js, React,  MongoDB... or anything [here](https://github.com/alexnjoya/njoyaalex/issues)**
 
@@ -31,38 +28,6 @@
 </div>
 
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
-</div>
-
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-<hr/>
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnjoya&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alexnjoya&count_private=true&theme=algolia&border_radius=20)
 
 
 
