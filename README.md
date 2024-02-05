@@ -29,7 +29,7 @@
 
 
 <h3  align="center" >Languages and Tools
-
+</h3>
 
 <div align="center">
 
@@ -49,8 +49,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     
 </div>
-
-</h3>
 
 <br />
 
