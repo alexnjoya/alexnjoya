@@ -51,10 +51,11 @@
     
 </div>
 
+<h3 align="center">  📊 Stats</h3>
 
 <br />
 <div  align="center">
-    ### 📊 Stats
+  
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexnjoya&show_icons=true&theme=gruvbox)
 
