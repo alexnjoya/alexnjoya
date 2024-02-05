@@ -9,10 +9,8 @@
 <div align="center">
  
 
- 💬 Ask me about **Node.js, React,  MongoDB... or anything [here](https://github.com/alexnjoya/njoyaalex/issues)**
+ 💬 Ask me about **Node.js, React,  MongoDB... or anything **
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
  </div>
  
 <div align="center"> 
