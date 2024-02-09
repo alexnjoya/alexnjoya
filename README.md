@@ -9,7 +9,7 @@
 <div align="center">
  
 
- 💬 Ask me about **Node.js, React,  MongoDB... or anything **
+ 💬 Ask me about **Node.js, React, Solidity,  MongoDB... or anything **
 
  </div>
  
