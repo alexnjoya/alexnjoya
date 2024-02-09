@@ -25,7 +25,7 @@
   </a>
 </div>
 
- <hr/>
+
 
 
 <h3  align="center" >Languages and Tools
@@ -49,7 +49,7 @@
 <br />
 </div>
 
- <hr/>
+
 <br />
 
 <h3  align="center" >📊 Stats</h3>
