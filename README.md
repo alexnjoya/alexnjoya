@@ -1,7 +1,7 @@
 # blockdevrel
 **Full-Stack Developer · AI · Blockchain Engineer**
 
-I build agent frameworks and Web3 products end to end — apps, APIs, smart contracts, and onchain payments.
+I build agent frameworks and Web3 products end to end apps, APIs, smart contracts, and onchain payments.
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,nestjs,postgres,docker,git" alt="Fullstack" />
