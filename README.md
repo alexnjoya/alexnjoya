@@ -1,16 +1,17 @@
-## Hi there 👋
+# blockdevrel
+**Full-Stack Developer · AI · Blockchain Engineer**
 
-<!--
-**alexnjoya/alexnjoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build agent frameworks and Web3 products end to end — apps, APIs, smart contracts, and onchain payments.
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,nestjs,postgres,docker,git" alt="Fullstack" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,linux" alt="Blockchain" />
+</p>
+
+**Focus:** AI agents · agent frameworks · NestJS · Python · Solidity · EVM
+
+
+[Website](https://YOUR-SITE.com) · [GitHub](https://github.com/alexnjoya) · [LinkedIn](https://linkedin.com/in/alexnjoya) · [Email](mailto:njoyaalexander71@gmail.com)
